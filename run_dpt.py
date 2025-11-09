@@ -24,7 +24,7 @@ except Exception as e:
     exit(1)
 
 # Инициализация DPT
-dpt = DPTTime(manifest)
+dpt = DPTTime()
 
 # Получение текущего UTC времени (timezone-aware)
 now_utc = datetime.now(timezone.utc)
