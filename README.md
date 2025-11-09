@@ -2,19 +2,21 @@
 Digital Planetary Time - A unified planetary time, ideal for synchronizing AI, robots, autopilot, exchanges, transactions, international reports, etc.
 
 📘 DPT-Time SDK — Digital Planetary Time for Machines and Contracts
-
 DPT-Time is a universal digital calendar system designed for machines, autonomous systems, smart contracts, and global automation.
 It works independently from human perception of time, providing a stable and uniform time flow for algorithms and AI systems.
-
 The DPT calendar is based on 360 digital days per year and 864,000 digital seconds (Pt-seconds) per day.
 Each new DPT year begins at the vernal equinox, forming a perfectly cyclic and repeatable time model.
 
 🚀 Key Features
 
 ✅ Fixed 360-day year, no leap years or astronomical drift
+
 ✅ 1000+ years of temporal stability without cumulative errors
+
 ✅ Automatic year generation (based on vernal equinox cycles)
+
 ✅ Full reversibility between UTC ↔ DPT
+
 ✅ Ideal for business logic, AI agents, autonomous vehicles, and smart contracts
 
 ⚙️ DPT Time Structure
@@ -33,17 +35,14 @@ This ensures smooth long-term synchronization with the Earth's orbital motion
 without any leap-day or correction mechanisms.
 
 🧠 How It Works
-
 Each DPT year is dynamically generated based on the precise period
 between one vernal equinox and the next.
 The system does not store millions of static manifests —
 it computes the year dynamically, ensuring stability even for millions of years.
-
 📦 Quick Start
 Clone or download this repository.
 Run the example test script:
 python run_dpt.py
-
 
 Example output:
 Current UTC: 2025-11-09 03:41:32.059960+00:00
