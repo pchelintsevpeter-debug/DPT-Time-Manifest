@@ -39,6 +39,7 @@ Each DPT year is dynamically generated based on the precise period
 between one vernal equinox and the next.
 The system does not store millions of static manifests —
 it computes the year dynamically, ensuring stability even for millions of years.
+
 📦 Quick Start
 Clone or download this repository.
 Run the example test script:
