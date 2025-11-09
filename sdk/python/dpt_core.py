@@ -4,8 +4,7 @@ dpt_core.py
 Версия 0.1
 """
 
-from datetime import datetime, timezone
-
+from datetime import datetime, timezone, timedelta
 class DPTTime:
     def __init__(self, manifest: dict):
         """
