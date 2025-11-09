@@ -1,0 +1,20 @@
+{
+  "DPT_year": 5786,
+  "version": "1.0",
+  "epoch_start": "2025-03-20T09:01:00Z",
+  "epoch_end": "2026-03-20T14:46:00Z",
+  "day_count": 360,
+  "day_seconds": 87657.5,
+  "pt_definition": {
+    "1_pt": 0.1,
+    "1_pt_second": 1.0,
+    "1_pt_minute": 36.0,
+    "1_pt_octave": 3600.0,
+    "1_pt_hour": 36000.0,
+    "1_day_pt_units": 864000.0
+  },
+  "checksum": "sha256-PLACEHOLDER", 
+  "authority": "DPT-Labs-Global-Authority",
+  "signature": "base64-PLACEHOLDER",
+  "comment": "Первый рабочий манифест DPT. Год от весеннего равноденствия 2025 до 2026."
+}
