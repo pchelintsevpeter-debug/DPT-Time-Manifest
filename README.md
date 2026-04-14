@@ -29,7 +29,7 @@ Unit	Symbol	Equivalent
 1 Digital Year	360 days	≈ 365 solar days
 
 💡 Note:
-The duration of a digital day (in real seconds) may slightly vary each year,
+Dynamic synchronization: DPT intelligently distributes the astronomical drift across the digital year, maintaining sub-millisecond precision for intervals while staying perfectly aligned with the Earth's orbital period each year,
 depending on the astronomical cycle between two vernal equinoxes.
 This ensures smooth long-term synchronization with the Earth's orbital motion
 without any leap-day or correction mechanisms.
